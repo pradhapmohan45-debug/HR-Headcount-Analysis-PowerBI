@@ -7,7 +7,7 @@ It helps analyze workforce data, track employee demographics, and monitor headco
 
 ##  Dashboard Pages  
 
-### 1. HR Dashboard Overview (Summary Page)  
+### 1. HR Dashboard Overview (overview Page)  
 - **Frequency:** Data is updated every Friday  
 - **Data Source:** Excel  
 - **Overview:** Interactive dashboards leveraging HR analytics for direct data exploration  
