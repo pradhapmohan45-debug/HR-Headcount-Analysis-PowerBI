@@ -5,7 +5,7 @@ It helps analyze workforce data, track employee demographics, and monitor headco
 
 ---
 
-## 📌 Dashboard Pages  
+##  Dashboard Pages  
 
 ### 1. HR Dashboard Overview (Summary Page)  
 - **Frequency:** Data is updated every Friday  
@@ -41,7 +41,7 @@ It helps analyze workforce data, track employee demographics, and monitor headco
 
 ---
 
-## 🚀 Key Insights  
+##  Key Insights  
 - Provides clear visibility into headcount distribution and workforce structure  
 - Highlights attrition and hiring trends over time  
 - Identifies workforce patterns by country, business unit, and job role  
@@ -49,7 +49,7 @@ It helps analyze workforce data, track employee demographics, and monitor headco
 
 ---
 
-## ▶️ How to Use  
+##  How to Use  
 1. Clone or download this repository  
 2. Open the `.pbix` file in **Power BI Desktop**  
 3. Explore dashboards using available slicers and filters  
@@ -57,6 +57,6 @@ It helps analyze workforce data, track employee demographics, and monitor headco
 
 ---
 
-## 📬 Contact  
+##  Contact  
 For queries or collaboration, feel free to connect:  
 **Email:** pradhap.mohan45@gmail.com  
