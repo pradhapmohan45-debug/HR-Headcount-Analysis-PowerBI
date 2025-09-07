@@ -34,7 +34,7 @@ It helps analyze workforce data, track employee demographics, and monitor headco
 
 ---
 
-## 🛠 Tools & Technologies  
+##  Tools & Technologies  
 - **Power BI Desktop** – Dashboard creation  
 - **Excel** – Data source  
 - **Power Query** – Data cleaning & transformation  
